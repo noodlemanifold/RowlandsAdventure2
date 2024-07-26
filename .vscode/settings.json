@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "bullet/Libbulletjme-20.2.0.jar",
+        "libraries/jbullet/jbullet.jar",
+        "libraries/jinput/jinput.jar",
+        "libraries/jogl/jogamp-fat.jar",
+        "libraries/joml/joml-1.10.5.jar",
+        "libraries/vecmath/vecmath.jar"
+    ]
+}
