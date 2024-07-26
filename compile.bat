@@ -1,7 +1,7 @@
 @echo off
 
 set /A err = 0
-set cp=%CLASSPATH%;%cd%\bullet\Libbulletjme-20.2.0.jar;
+set cp=;%CLASSPATH%;%cd%\bullet\Libbulletjme-20.2.0.jar;%cd%\libraries\jogl\jogamp-fat.jar;%cd%\libraries\joml\joml-1.10.5.jar;%cd%\libraries\jinput\jinput.jar;%cd%\libraries\jbullet\jbullet.jar;%cd%\libraries\vecmath\vecmath.jar;
 
 echo: javac tage\*.java
 javac -cp "%cp%" tage\*.java
