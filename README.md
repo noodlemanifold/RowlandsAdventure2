@@ -8,7 +8,8 @@ The game is only tested on Windows 11 using Java 17. Make sure Java 17 is your d
 Just run compile.bat!
 
 ## Media
-![Rowland Gameplay](https://noodlemanifold.github.io/images/portfolioRowland/rowland1.png){ .image25percent }
-![Rowland Gameplay](https://noodlemanifold.github.io/images/portfolioRowland/rowland2.gif){ .image25percent }
-![Rowland Gameplay](https://noodlemanifold.github.io/images/portfolioRowland/rowland2.png){ .image25percent }
-![Rowland Gameplay](https://noodlemanifold.github.io/images/portfolioRowland/rowland3.gif){ .image25percent }
+![Rowland Gameplay](https://noodlemanifold.github.io/images/portfolioRowland/rowland1.png)
+![Rowland Gameplay](https://noodlemanifold.github.io/images/portfolioRowland/rowland2.gif)
+![Rowland Gameplay](https://noodlemanifold.github.io/images/portfolioRowland/rowland2.png)
+![Rowland Gameplay](https://noodlemanifold.github.io/images/portfolioRowland/rowland3.gif)
+![Rowland Gameplay](https://noodlemanifold.github.io/images/portfolioRowland/rowland3.png)
